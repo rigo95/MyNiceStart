@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyNiceStart</string>
+    <string name="backimage_description">\"\"</string>
+    <string name="username_hint">Usuario</string>
+    <string name="signup_text">Registrate</string>
+    <string name="login"> Login</string>
+</resources>
